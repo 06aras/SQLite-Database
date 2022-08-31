@@ -1,2 +1,2 @@
-# SQLite-Database
-Sqlite Veri Tabanı
+# Studio Project Using Sqlite Database
+Sqlite Veri Tabanı Kullanarak Stüdyo Projesi 
